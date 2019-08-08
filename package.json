@@ -1,0 +1,29 @@
+{
+  "name": "babel-plugin-svg-import",
+  "version": "1.0.0",
+  "description": "svg import",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flycj/babel-plugin-svg-import.git"
+  },
+  "keywords": [
+    "svg",
+    "import",
+    "babel"
+  ],
+  "author": "flycj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flycj/babel-plugin-svg-import/issues"
+  },
+  "homepage": "https://github.com/flycj/babel-plugin-svg-import#readme",
+  "dependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/runtime": "^7.5.5"
+  },
+  "devDependencies": {}
+}
